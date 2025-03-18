@@ -124,7 +124,7 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
                 fill: true,
                 borderColor: '#1DB954',
                 backgroundColor: 'rgba(29, 185, 84, 0.1)',
-                tension: 0.4,
+                tension: 0,
             },
         ],
     };
